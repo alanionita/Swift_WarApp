@@ -47,6 +47,7 @@
 		6B7221E5201F6FD5000958D2 /* WarAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WarAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B7221E9201F6FD5000958D2 /* WarAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WarAppUITests.swift; sourceTree = "<group>"; };
 		6B7221EB201F6FD5000958D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B7221F7201F730F000958D2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		6B7221BD201F6FD5000958D2 = {
 			isa = PBXGroup;
 			children = (
+				6B7221F7201F730F000958D2 /* README.md */,
 				6B7221C8201F6FD5000958D2 /* WarApp */,
 				6B7221DD201F6FD5000958D2 /* WarAppTests */,
 				6B7221E8201F6FD5000958D2 /* WarAppUITests */,
